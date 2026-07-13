@@ -1,1 +1,0 @@
-Here, there are 2 files called index.html and style.css.
